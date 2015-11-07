@@ -1,0 +1,15 @@
+{
+  "name": "ReactNativeExample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.android.js",
+  "dependencies": {
+    "react-native": "^0.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
